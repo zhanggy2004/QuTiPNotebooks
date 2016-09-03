@@ -1,0 +1,11 @@
+name: qutip
+dependencies:
+- cython
+- ipython
+- matplotlib
+- numpy
+- python=3
+- scipy
+- pip:
+  - git+https://github.com/qutip/qutip.git#egg=qutip[complete]
+
