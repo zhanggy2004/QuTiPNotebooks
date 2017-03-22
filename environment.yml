@@ -1,4 +1,7 @@
 name: qutip
+channels:
+- defaults
+- conda-forge
 dependencies:
 - python=3
 - cython
@@ -6,6 +9,4 @@ dependencies:
 - scipy
 - matplotlib
 - nose
-- pip:
-  - git+https://github.com/qutip/qutip.git#egg=qutip[complete]
-
+- qutip
