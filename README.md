@@ -1,5 +1,5 @@
 # QuTiP Notebooks
-- [Q function calculation](QFunction/Qfunction_QuTiP.ipynb)
+- [Q function calculation](Qfunction.ipynb)
 - [Transmon eigenenergies](TransmonSpectrum.ipynb)
 - [Cross-resonance gate](CRGate/CrossResonanceGate.ipynb)
 - [Photon number splitting](NumerSplitting/NumberSplitting.ipynb)
