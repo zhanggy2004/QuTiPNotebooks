@@ -7,3 +7,4 @@
 - [Gate tune-up and DRAG](GateTuneup.ipynb)
 - [Cat code](CatCode.ipynb)
 - [Flux pumping](FluxPumping/FluxPumping.ipynb)
+- [Static ZZ crosstalk](StaticZZ/StaticZZ.ipynb)
