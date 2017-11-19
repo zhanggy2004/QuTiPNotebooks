@@ -1,6 +1,7 @@
 # QuTiP Notebooks
 - [Q function calculation](QFunction/Qfunction_QuTiP.ipynb)
 - [Transmon eigenenergies](TransmonSpectrum.ipynb)
+- [Monte Carlo calculation for T<sub>1</sub>  and T<sub>2</sub>](T1T2MonteCarlo.ipynb)
 - [Cross-resonance gate](CRGate/CrossResonanceGate.ipynb)
 - [Photon number splitting](NumberSplitting.ipynb)
 - [Photon shot noise dephasing](PhotonShotNoise/PhotonShotNoise.ipynb)
