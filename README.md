@@ -8,4 +8,5 @@
 - [Gate tune-up and DRAG](GateTuneup.ipynb)
 - [Cat code](CatCode.ipynb)
 - [Flux pumping](FluxPumping/FluxPumping.ipynb)
+- [Qubit state stabilization using blue sideband modulation](QubitStabilization/QubitStabilization.ipynb)
 - [Static ZZ crosstalk](StaticZZ/StaticZZ.ipynb)
